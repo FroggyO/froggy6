@@ -1,0 +1,28 @@
+div.resulsum{
+    width: 400px;
+    height: auto;
+    
+}
+input{
+    width: 600px;
+}
+.butt{
+    padding-left: 250px;
+    padding-top: 30px;
+}
+button{
+    width: 100px;
+    height: 75px;
+}
+.Glav{
+    padding-left: 250px;
+}
+.inpit{
+ 
+}
+body{
+    width: 200px;
+}
+*{
+    margin-left: 80px;
+}
